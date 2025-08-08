@@ -23,6 +23,9 @@ while (gente != "4"):
         discapacitado = input("¿como se llama la persona?") 
         lista.insert(0, discapacitado)
         print(lista)
+
+    gente = input("inserte la opcion que va a elegir")
+
 if (gente == "4"):
  print("chau weon")
  print(lista)    
